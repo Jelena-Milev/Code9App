@@ -7,3 +7,6 @@
 [submodule "Code9App-BookSalesService"]
 	path = Code9App-BookSalesService
 	url = https://github.com/Jelena-Milev/Code9App-BookSalesService
+[submodule "Code9App-BooksService"]
+	path = Code9App-BooksService
+	url = https://github.com/Jelena-Milev/Code9App-BooksService
