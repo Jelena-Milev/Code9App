@@ -1,0 +1,3 @@
+[submodule "Code9App-UsersService"]
+	path = Code9App-UsersService
+	url = https://github.com/Jelena-Milev/Code9App-UsersService
