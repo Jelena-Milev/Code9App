@@ -1,3 +1,6 @@
 [submodule "Code9App-UsersService"]
 	path = Code9App-UsersService
 	url = https://github.com/Jelena-Milev/Code9App-UsersService
+[submodule "Code9App-EurekaServer"]
+	path = Code9App-EurekaServer
+	url = https://github.com/Jelena-Milev/Code9App-EurekaServer
